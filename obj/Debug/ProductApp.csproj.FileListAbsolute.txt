@@ -1,0 +1,7 @@
+D:\Assignments\ProductApp\bin\Debug\ProductApp.exe.config
+D:\Assignments\ProductApp\bin\Debug\ProductApp.exe
+D:\Assignments\ProductApp\bin\Debug\ProductApp.pdb
+D:\Assignments\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+D:\Assignments\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+D:\Assignments\ProductApp\obj\Debug\ProductApp.exe
+D:\Assignments\ProductApp\obj\Debug\ProductApp.pdb
